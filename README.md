@@ -56,3 +56,6 @@ go run .\cmd\api\main.go
 ]
 ```
 Поле `result` хранит промежуточный/конечный результат.
+
+### TODO
+ * graceful shutdown для вореров.
